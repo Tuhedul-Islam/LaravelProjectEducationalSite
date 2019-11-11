@@ -2,7 +2,7 @@
 - [install composer.]
 - [Generate application key.{php artisan key:generate}]
 - [MySql Database Used.]
-- [Create a Database named ait(any name you may use) and set the database in .env file.]
+- [Create a Database nammed ait(any name you may use) and set the database in .env file.]
 - [Insert a admin info manually in the admin table and then login.]
 - [Finnaly, you are eligible to see the admin interface.] 
 
